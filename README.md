@@ -27,8 +27,8 @@ I'm a passionate and curious developer who enjoys building clean, scalable, and 
 My personal portfolio built with Next.js and deployed with Vercel.
 
 ### 💡 More Projects
-- [Weekly Life Calendar](https://github.com/MohammadAliHeidary/weeks-of-my-life) – Visual tracker of life in weeks
-- [React Leaflet Iran Map](https://github.com/MohammadAliHeidary/iran-map-app) – Customized map with search
+- [Weekly Life Calendar](https://github.com/NotHeidari/weeks-of-my-life) – Visual tracker of life in weeks
+- [React Leaflet Iran Map](https://github.com/NotHeidari/iran-map-app) – Customized map with search
 
 ---
 
@@ -78,28 +78,28 @@ My personal portfolio built with Next.js and deployed with Vercel.
 
 - 📧 Email: your.email@example.com
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 💻 GitHub: [github.com/MohammadAliHeidary](https://github.com/MohammadAliHeidary)
+- 💻 GitHub: [github.com/NotHeidari](https://github.com/NotHeidari)
 - 🌐 Website: [notheidari.ir](https://notheidari.ir)
 
 ---
 
 ## 🏆 GitHub Profile Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohammadAliHeidary&theme=darkhub&no-frame=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NotHeidari&theme=darkhub&no-frame=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📈 GitHub Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammadAliHeidary&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NotHeidari&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadAliHeidary&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotHeidari&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliHeidary&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotHeidari&layout=compact&theme=radical)
 
 ---
 
