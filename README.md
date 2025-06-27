@@ -1,15 +1,22 @@
 ## Hi there 👋
+
 <div>
-  <img align="right" width="50%" src="https://camo.githubusercontent.com/5aa97d425985b10197701c74067f1b1a7dc086cc064e1be03ee58f21f78850f3/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30372f456755782e676966" />
-  <p width="50%" align="left">I'm MohammadAli Heidari !</p>
-  <p width="50%">Im frontend developer and a little backend 🤏❤️</p>
+  <img width="50%" src="https://camo.githubusercontent.com/5aa97d425985b10197701c74067f1b1a7dc086cc064e1be03ee58f21f78850f3/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30372f456755782e676966" />
+  <p width="50%">I'm MohammadAli Heidari (!Heidari)</p>
+  <p width="50%">
+  Future Tech Innovator ⚡🚀
+  <br />
+  Driven to build groundbreaking projects 💡🔥
+  <br />
+  Redefine possibilities and master the art of growth 🌱👑
+</p>
   <P width="50%">My skills 👇💎</P>
-  <img  src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,scss" />
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,redux,npm,git,github" />
+  <img  src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,scss,redux,npm,git,github" />
   <img src="https://skillicons.dev/icons?i=figma,mysql,mongodb,nestjs,postgresql,docker" />
 </div>
 
-
+<!--
 # 👋 Hi there! I'm MohammadAli Heidari
 
 ## 🧑‍💻 About Me
@@ -79,8 +86,8 @@ My personal portfolio built with Next.js and deployed with Vercel.
 
 ## 🎓 Education
 
-**Software Engineering**  
-📍 National Skill University of Mashhad  
+**Software Engineering**
+📍 National Skill University of Mashhad
 📅 2022 – Present
 
 ---
@@ -121,4 +128,4 @@ My personal portfolio built with Next.js and deployed with Vercel.
 
 ---
 
-> Thanks for visiting! Feel free to explore my repositories or contact me for collaboration.
+> Thanks for visiting! Feel free to explore my repositories or contact me for collaboration. -->
