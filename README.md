@@ -1,56 +1,74 @@
-# 👋 Hi there! I'm MohammadAli Heidary
+## Hi there 👋
+<div>
+  <img align="right" width="50%" src="https://camo.githubusercontent.com/5aa97d425985b10197701c74067f1b1a7dc086cc064e1be03ee58f21f78850f3/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30372f456755782e676966" />
+  <p width="50%" align="left">I'm MohammadAli Heidari !</p>
+  <p width="50%">Im frontend developer and a little backend 🤏❤️</p>
+  <P width="50%">My skills 👇💎</P>
+  <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,redux,npm,git,github" />
+  <img src="https://skillicons.dev/icons?i=figma,php,mysql" />
+</div>
+
+
+# 👋 Hi there! I'm MohammadAli Heidari
 
 ## 🧑‍💻 About Me
 
 I'm a passionate and curious developer who enjoys building clean, scalable, and user-friendly applications. I specialize in **full-stack JavaScript development** (React, Node.js, NestJS) and love to explore new technologies and contribute to meaningful projects.
 
-- 🎯 Goal: Become a product-driven engineer who solves real-world problems
-- 🌍 Location: Mashhad, Iran
-- 🗓️ Born: September 2004
-- 🎓 Software Engineering student at National Skill University of Mashhad
-- 🌐 Website: [notheidari.ir](https://notheidari.ir)
+-   🎯 Goal: Become a product-driven engineer who solves real-world problems
+-   🌍 Location: Mashhad, Iran
+-   🗓️ Born: September 2004
+-   🎓 Software Engineering student at National Skill University of Mashhad
+-   🌐 Website: [notheidari.ir](https://notheidari.ir)
 
 ---
 
 ## 💼 Work Experience
 
-| Role               | Company        | Duration         | Description                                      |
-|--------------------|----------------|------------------|--------------------------------------------------|
-| Frontend Developer | ABC Company    | 2023 – Present   | Developing UI with React and Tailwind CSS        |
-| Backend Intern     | XYZ Startup    | Summer 2022      | Building APIs with Node.js and MongoDB           |
+| Role               | Company     | Duration       | Description                               |
+| ------------------ | ----------- | -------------- | ----------------------------------------- |
+| Frontend Developer | ABC Company | 2023 – Present | Developing UI with React and Tailwind CSS |
+| Backend Intern     | XYZ Startup | Summer 2022    | Building APIs with Node.js and MongoDB    |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔗 [Portfolio Website](https://notheidari.ir)
+
 My personal portfolio built with Next.js and deployed with Vercel.
 
 ### 💡 More Projects
-- [Weekly Life Calendar](https://github.com/NotHeidari/weeks-of-my-life) – Visual tracker of life in weeks
-- [React Leaflet Iran Map](https://github.com/NotHeidari/iran-map-app) – Customized map with search
+
+-   [Weekly Life Calendar](https://github.com/NotHeidari/weeks-of-my-life) – Visual tracker of life in weeks
+-   [React Leaflet Iran Map](https://github.com/NotHeidari/iran-map-app) – Customized map with search
 
 ---
 
 ## 🧰 Skills
 
-### 🖥️ Languages  
+### 🖥️ Languages
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 
-### ⚙️ Frameworks & Libraries  
+### ⚙️ Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 
-### 🗄️ Databases  
+### 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 
-### 🛠 Tools & Platforms  
+### 🛠 Tools & Platforms
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
@@ -69,17 +87,17 @@ My personal portfolio built with Next.js and deployed with Vercel.
 
 ## 🌐 Languages
 
-- Persian (Native)
-- English (Fluent)
+-   Persian (Native)
+-   English (Fluent)
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 💻 GitHub: [github.com/NotHeidari](https://github.com/NotHeidari)
-- 🌐 Website: [notheidari.ir](https://notheidari.ir)
+-   📧 Email: your.email@example.com
+-   💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+-   💻 GitHub: [github.com/NotHeidari](https://github.com/NotHeidari)
+-   🌐 Website: [notheidari.ir](https://notheidari.ir)
 
 ---
 
