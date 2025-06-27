@@ -6,8 +6,8 @@
   <P width="50%">My skills 👇💎</P>
   <img  src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,scss" />
   <img src="https://skillicons.dev/icons?i=nextjs,ts,redux,npm,git,github" />
-  <img src="https://skillicons.dev/icons?i=figma,mysql,mongodb,nestjs,redis" />
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=figma,mysql,mongodb,nestjs,postgresql" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </div>
 
 
