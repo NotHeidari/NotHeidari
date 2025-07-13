@@ -10,5 +10,6 @@
         <br>
         If building precisely, thoughtfully, and meaningfully matters to you, maybe someday our paths will cross 🔗.
     </p>
+    <br>
     <img  src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,scss,redux,npm,git,github,figma,mysql,mongodb,nestjs,postgresql,docker" />
 </div>
